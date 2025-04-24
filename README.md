@@ -1,5 +1,4 @@
-# Maintenance Tracking System 
-#（保全トラッキングシステム）
+# Maintenance Tracking System（保全トラッキングシステム）
 ## CLI program
 This is my very first project to be published on GitHub.  
 I don't even know how to make a new line.  
